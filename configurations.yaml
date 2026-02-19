@@ -1,0 +1,21 @@
+theme:
+  colors:
+    background: 5 15 10
+    surface: 15 30 20
+    primary: 34 197 94
+    text: 220 240 225
+  card:
+    aspectRatio: 1/1
+    borderRadius: 1.5rem
+    borderWidth: 1px
+    hoverBorderWidth: 5px
+    gap: 2rem
+  layout:
+    maxWidth: 1600px
+    paddingX: 96px
+    gridColumns: 4
+    aspectRatio: 1/1
+    backgroundEffect: particles
+    borderRadius: 1.5rem
+    borderWidth: 1px
+    hoverBorderWidth: 5px

@@ -1,0 +1,29 @@
+{
+  "name": "Malek",
+  "title": "welcome",
+  "bio": "Welcome to your new portfolio. Click here to edit your bio.",
+  "email": "",
+  "phone": "",
+  "linkedin": "",
+  "sections": [
+    {
+      "name": "My Work",
+      "projects": [
+        {
+          "name": "Taiz Castle ",
+          "description": "Description of your project",
+          "techStack": [
+            "node.js"
+          ],
+          "folder": "0a3f98ae-e3d4-4d76-82be-51bc745a4f55",
+          "images_count": 3,
+          "cover_image": "0.webp"
+        }
+      ],
+      "aspectRatio": "16/9",
+      "gridColumns": 3
+    }
+  ],
+  "github": "enabled",
+  "last_updated": 1771529127002
+}
